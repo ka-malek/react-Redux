@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+.btn {
+  z-index: 0 !important;
+}
+
+input {
+  margin-top: 20px;
+  
+}
+button {
+  margin-top: 20px;
+}
+p {
+  padding-right: 20px;
+  margin-top: 21px;
+  margin-bottom: 0px;
+  background-color: rgb(248, 38, 38);
+  padding: 20px 25px;
+}
+.input-group-prepend {
+  margin-top: 20px;
+}
+body{
+  background-color: black;
+}
